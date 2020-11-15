@@ -1,0 +1,13 @@
+E:\làm đồ án 1\DO AN 1\DO AN 1\bin\Debug\netcoreapp3.1\DO AN 1.exe
+E:\làm đồ án 1\DO AN 1\DO AN 1\bin\Debug\netcoreapp3.1\DO AN 1.deps.json
+E:\làm đồ án 1\DO AN 1\DO AN 1\bin\Debug\netcoreapp3.1\DO AN 1.runtimeconfig.json
+E:\làm đồ án 1\DO AN 1\DO AN 1\bin\Debug\netcoreapp3.1\DO AN 1.runtimeconfig.dev.json
+E:\làm đồ án 1\DO AN 1\DO AN 1\bin\Debug\netcoreapp3.1\DO AN 1.dll
+E:\làm đồ án 1\DO AN 1\DO AN 1\bin\Debug\netcoreapp3.1\DO AN 1.pdb
+E:\làm đồ án 1\DO AN 1\DO AN 1\obj\Debug\netcoreapp3.1\DO AN 1.csprojAssemblyReference.cache
+E:\làm đồ án 1\DO AN 1\DO AN 1\obj\Debug\netcoreapp3.1\DO AN 1.AssemblyInfoInputs.cache
+E:\làm đồ án 1\DO AN 1\DO AN 1\obj\Debug\netcoreapp3.1\DO AN 1.AssemblyInfo.cs
+E:\làm đồ án 1\DO AN 1\DO AN 1\obj\Debug\netcoreapp3.1\DO AN 1.csproj.CoreCompileInputs.cache
+E:\làm đồ án 1\DO AN 1\DO AN 1\obj\Debug\netcoreapp3.1\DO AN 1.dll
+E:\làm đồ án 1\DO AN 1\DO AN 1\obj\Debug\netcoreapp3.1\DO AN 1.pdb
+E:\làm đồ án 1\DO AN 1\DO AN 1\obj\Debug\netcoreapp3.1\DO AN 1.genruntimeconfig.cache
